@@ -24,6 +24,6 @@ public class ConvertNumberToExcelTitle {
 	}
 
 	public static void main(String[] args) {
-		//convertToSheet2(701);
+		convertToSheet2(701);
 	}
 }
